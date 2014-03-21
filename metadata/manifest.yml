@@ -5,11 +5,6 @@ Version: "1.1.2"
 Versions: ["1.1.2", "1.0.3"]
 Website: https://github.com/smarterclayton/openshift-go-cart
 Source-Url: https://github.com/fernandohc/openshift-go-cart.git
-1
-2
-3
-4
-67745754.;;
 Cartridge-Version: 0.0.1
 Cartridge-Vendor: smarterclayton
 Categories:
